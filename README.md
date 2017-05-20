@@ -7,7 +7,7 @@ The purpose of this repo is to help improving an already booting system, not to 
 You can find detailed hardware information gathered from Ubuntu at [System Hardware/](System Hardware/).
 
  - UEFI firmware version: 214
- - CPU: Intel Core i5-3317U
+ - CPU: Intel Core i5-3317U (Ivy Bridge)
  - GPU: Intel HD4000 + Nvidia GeForce GT 620M
  - Audio: ALC269VB
  - Wifi: Dell Wireless 1520 (chipset: Broadcom BCM4322 (BCM94322HM8L))
@@ -16,7 +16,7 @@ You can find detailed hardware information gathered from Ubuntu at [System Hardw
 ####Status
  - Current OS X version: El Capitan 10.11.6
  - Working:
-   - CPU steps
+   - CPU steps (XCPM enabled via Clover argument -xcpm)
    - Sleep
    - Audio
    - WiFi
