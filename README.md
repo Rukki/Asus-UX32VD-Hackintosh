@@ -49,9 +49,10 @@ You can find detailed hardware information gathered from Ubuntu at [System Hardw
 - Various kexts:
 	- [ACPIBatteryManager](https://bitbucket.org/RehabMan/os-x-acpi-battery-driver)
 	- [ApplePS2SmartTouchPad](http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/): touchpad and keyboard (this is set to ISO and italian keyboard layout)
+    - [AppleALC](https://github.com/vit9696/AppleALC) Audio
 	- [AsusNBFnKeys](http://forum.osxlatitude.com/index.php?/topic/1968-fn-hotkey-and-als-sensor-driver-for-asus-notebooks/)
 	- [Brcm\*](https://bitbucket.org/RehabMan/os-x-brcmpatchram): bluetooth
-	- DummyHDA: to use Apple's audio driver
+	- [BrcmFirmwareData]: Custom Broadcom Wifi Card
 	- [EAPDFix](http://forum.osxlatitude.com/index.php?/topic/3084-eapdjack-sense-fix-no-audiojack-sense-issue-after-sleep/): to fix audio after sleep
 	- [FakePCIID\*](https://bitbucket.org/RehabMan/os-x-fake-pci-id): to make wifi and USB 3.0 work
 	- [FakeSMC](http://www.hwsensors.com): essential to boot OS X; no plugins installed
