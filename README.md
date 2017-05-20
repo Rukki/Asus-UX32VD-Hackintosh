@@ -3,6 +3,8 @@ This is a working set of kexts and configurations for running OS X on an ASUS UX
 
 The purpose of this repo is to help improving an already booting system, not to help installing it: I have OS X since a long time, so I don't remember the problems I faced during installation. [Here](http://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh/)'s a good all-in-one guide and [here](http://www.insanelymac.com/forum/forum/137-osx86-installation/)'s a specialized forum. Anyway, I have included some of the kexts I used for the installation at [Kexts for installation/](Kexts%20for%20installation/).
 
+Many discussions about UX32VD hackintosh are in this [Zenbook Forum](http://www.insanelymac.com/forum/topic/283038-asus-zenbook-prime-ux31a-db51-ultrabook-fixes-mods-tweaks-etc/page-52)
+
 #### System
 You can find detailed hardware information gathered from Ubuntu at [System Hardware/](System%20Hardware/).
 
