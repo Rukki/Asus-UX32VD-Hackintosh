@@ -30,7 +30,6 @@ You can find detailed hardware information gathered from Ubuntu at [System Hardw
    - A lot more...
  - Not working: 
    - Card reader
-   - Bluetooth (it works using an appropriate Wifi card like AzureWave AW-CE123H)
  - Unknown (not tested properly):
    - iMessage
    - Handoff
